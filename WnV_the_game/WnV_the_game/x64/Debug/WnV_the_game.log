@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\University\Object-Oriented Programming\Assignments\WnV_the_game\WnV_the_game\WnV_the_game\main.cpp(31,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  WnV_the_game.vcxproj -> C:\University\Object-Oriented Programming\Assignments\WnV_the_game\WnV_the_game\x64\Debug\WnV_the_game.exe
